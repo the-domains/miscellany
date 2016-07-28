@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Miscellany]]></title>
         <description><![CDATA[Miscellany]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/miscellany/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 05:38:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jul 2016 05:42:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/miscellany/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Rising dawn: Rolls-Royce debut handsome new soft-top.]]></title>
             <description><![CDATA[<article><h1>Rising dawn: Rolls-Royce debut handsome new soft-top.</h1><p>The Rolls-Royce Dawn made its debut in an underground car park, just a stone's throw from Wallpaper's HQ. Granted, it was the car park beneath Rogers Stirk Harbour + Partners' award-winning Neo Bankside development, and the other bays were full of Ferraris, Maseratis and other exotic metal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e9722ec934a561a202db1ac3eff4119777420ed.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/lifestyle/rolls-royce-debut-their-handsome-new-soft-top</link>
+            <link>https://thegrid.ai/miscellany/rising-dawn-rolls-royce-debut-handsome-new-soft-top/index.html</link>
             <guid isPermaLink="false">bf8496cb-414e-4ea6-9d9f-9a1ae5373aa5</guid>
-            <pubDate>Thu, 28 Jul 2016 05:38:42 GMT</pubDate>
+            <pubDate>Thu, 28 Jul 2016 05:42:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
