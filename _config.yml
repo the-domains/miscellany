@@ -1,0 +1,14 @@
+layout_spectrum: 0.8046024071518332
+typography_spectrum: 0.03753822157159448
+color:
+  brandStrength: 0.006650957511737943
+  lightness: 0.6857829676009715
+  saturation: 0.5387228254694492
+  rhythmicContrast: 0.15787786128930748
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Miscellany
