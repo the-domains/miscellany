@@ -6,9 +6,13 @@ color:
   saturation: 0.5387228254694492
   rhythmicContrast: 0.15787786128930748
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Miscellany
+navigation:
+  - name: 'Rising dawn: Rolls-Royce debut handsome new soft-top.'
+    id: bf8496cb-414e-4ea6-9d9f-9a1ae5373aa5
+    type: content
